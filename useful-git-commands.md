@@ -18,6 +18,7 @@
 - local - you personal computer
 - commit - adding a tracking number and message to your version
 - diff - the difference between states of your local and GitHub repository
+- markdown (.md) - a text-based language used on GitHub for code documentation
 
 ### Git Process Notes
 
