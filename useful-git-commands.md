@@ -18,3 +18,12 @@
 - local - you personal computer
 - commit - adding a tracking number and message to your version
 - diff - the difference between states of your local and GitHub repository
+
+### Git Process Notes
+
+- create a new repo on GitHub
+- clone the repo to your local
+- add a new file
+- add code to the file
+- use git status to see where you are at in the process
+- add, commit, push code to GitHub
